@@ -1,0 +1,1 @@
+cout << a[j].id << " " << a[j].name << " " << a[j].section << " " << a[j].mark << endl;
