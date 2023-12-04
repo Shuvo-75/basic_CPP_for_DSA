@@ -10,4 +10,4 @@ int main()
     cout << s.back() << endl; // easy way for last 
     cout << s.front() << endl;
     return 0;
-}
+} 
